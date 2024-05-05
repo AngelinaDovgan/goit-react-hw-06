@@ -1,0 +1,12 @@
+.mainlist {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    padding: 8px;
+    list-style: none;
+}
+
+.listitem {
+    border: 1px solid black;
+    padding: 25px;
+}
